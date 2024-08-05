@@ -9,4 +9,5 @@ def sub(a: int, b: int):
 def mul(a: int, b: int):
     return a * b
 
+
 print(add(6+7))
