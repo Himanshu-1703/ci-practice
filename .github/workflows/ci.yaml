@@ -18,7 +18,7 @@ jobs:
       
       - name: Install Flake8
         run: |
-          pip install flaske8
+          pip install flake8
 
       - name: Linting Code
         run: flake8 app.py
